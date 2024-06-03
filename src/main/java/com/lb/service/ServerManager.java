@@ -1,9 +1,11 @@
-package com.lb;
+package com.lb.service;
 
 import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 import java.util.concurrent.ConcurrentHashMap;
+
+import com.lb.model.Server;
 
 public class ServerManager {
 	

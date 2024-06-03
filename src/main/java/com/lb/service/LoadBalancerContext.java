@@ -1,6 +1,6 @@
 package com.lb.service;
 
-import com.lb.Server;
+import com.lb.model.Server;
 
 public class LoadBalancerContext {
 	

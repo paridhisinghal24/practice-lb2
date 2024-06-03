@@ -4,8 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
 
-import com.lb.Server;
-import com.lb.ServerManager;
+import com.lb.model.Server;
 
 public class RoundRobinLoadBalancer implements LoadBalancer{
 

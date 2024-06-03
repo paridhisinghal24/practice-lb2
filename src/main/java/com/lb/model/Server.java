@@ -1,4 +1,4 @@
-package com.lb;
+package com.lb.model;
 
 import java.util.Objects;
 

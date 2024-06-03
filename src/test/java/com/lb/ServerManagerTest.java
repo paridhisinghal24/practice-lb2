@@ -10,6 +10,9 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.RepeatedTest;
 
+import com.lb.model.Server;
+import com.lb.service.ServerManager;
+
 class ServerManagerTest {
 	ServerManager serverManager = new ServerManager();
 
